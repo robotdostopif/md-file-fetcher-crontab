@@ -1,6 +1,7 @@
 # md-file-fetcher
-
-
+The project is meant to pull down md files from a git repository through ssh and then adding all entries to a mongoDB database.
+It checks if changes have been made and overwrite if so, it also handles outdated entries, if a file have been removed from the git repository it gets the status outdated in the mongoDB database.
+The project is meant to be a custom project using crontab and Docker for frequently getting updates of the md-files.
 
 ## Setup Project
 
