@@ -1,0 +1,9 @@
+[
+    {
+        "database_name": "feed_db",
+        "collection_name":  "articles_collection",
+        "database_timeout_ms": 10,
+        "git_remote_branch": "master",
+        "git_folder":"/app/git_folder"
+    }
+]

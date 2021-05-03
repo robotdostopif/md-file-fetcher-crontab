@@ -1,0 +1,11 @@
+[
+    {
+        "database_location":"set_location",
+        "git_remote_url":"set_url",
+        "database_name": "book_db",
+        "collection_name":  "md_articles",
+        "database_timeout_ms": 10,
+        "git_remote_branch": "master",
+        "git_folder":"git_folder"
+    }
+]

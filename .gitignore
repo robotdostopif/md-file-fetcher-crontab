@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache
+.vscode
+cron_job_test/
+/src/dev_config.json

@@ -1,0 +1,5 @@
+GitPython
+markdown
+pymongo
+dnspython
+bs4
